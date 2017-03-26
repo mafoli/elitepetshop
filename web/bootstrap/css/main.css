@@ -1,0 +1,101 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.cabecalho{
+  background-image: -webkit-linear-gradient(top, #245269 0%, #204d74 100%);
+  background-image:      -o-linear-gradient(top, #245269 0%, #204d74 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#245269), to(#204d74));
+  background-image:         linear-gradient(to bottom, #245269 0%, #204d74 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff#245269c', endColorstr='#ff#204d74', GradientType=0);
+  background-repeat: repeat-x;
+  -webkit-box-shadow: inset 0 3px 9px rgba(0, 0, 0, .25);
+          box-shadow: inset 0 3px 9px rgba(0, 0, 0, .25);
+          
+                        
+}
+
+
+.titulo{
+    color: #ffcc00;
+    font-size: 36px;
+}
+
+.esquerda{
+    text-align: left;
+}
+
+.centralizado{
+     text-align: center;
+}
+.direita{
+     text-align: right;
+     button-align:right;
+}
+
+.usuario{
+    color: #8c8c8c;
+    font-size: 24px;
+    text-align: left;
+}
+
+listaexercicio{
+  padding: 30px 15px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+ }
+ 
+ .marca{
+     
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  color: #eee;
+  
+  
+ 
+       
+ }
+ 
+ .azul{
+    color: #204d74;
+    background-color: #204d74;
+    
+ }
+ 
+ .menu{
+    margin: 7.5px -15px;
+   color: #eee;
+  
+ }
+ .h3{
+     color:#204d74;
+ }
+ .btnnovo{
+  color: #fff;
+  background-color: #245269;
+  border-color: #245269;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.dtmask {
+
+}
